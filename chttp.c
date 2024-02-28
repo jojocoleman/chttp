@@ -1,7 +1,7 @@
-// Title:			          chttp.c
-// Creator:			        John Coleman
-// Creation Date:		    02/27/2024
-// Modification Date:   02/27/2024
+// Title:			chttp.c
+// Creator:			John Coleman
+// Creation Date:		02/27/2024
+// Modification Date:		02/27/2024
 // Desscription:  
 // A basic socket that sends HTTP header with HTML data.
 //
